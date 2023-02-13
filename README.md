@@ -1,6 +1,6 @@
 # This is the ALX AirBnB clone project repository
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230213T012256Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=644bcc86dbf82ecc620edfe18bbce4199eaf839cbd549d8df6f82c6b4ebfed81" />
+<img src="./hbnb.png" />
 
 ## Description
 
