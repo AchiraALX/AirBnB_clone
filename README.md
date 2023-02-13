@@ -1,7 +1,5 @@
 # This is the ALX AirBnB clone project repository
 
-<img src="./hbnb.png" />
-
 ## Description
 
 This repository contains the AirBnB clone project, which is the first step towards building a full web application. The goal of this project is to deploy on your server a simple copy of the AirBnB website.
