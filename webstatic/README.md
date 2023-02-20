@@ -1,0 +1,2 @@
+# Webstatic directory
+
